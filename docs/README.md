@@ -1,8 +1,8 @@
 ---
 home: true
 heroImage: /egg.png
-heroText: 裂泉的前端记录
-tagline: 一点一滴都是进步
+heroText: 王培的博客
+tagline: 伟大的真诚必定充满坎坷
 actionText: 马上进入 →
 actionLink: /pages/folder1/test1.md
 features:
